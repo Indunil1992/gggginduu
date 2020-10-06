@@ -1,0 +1,71 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "31f49045-5adf-4f11-8cd3-46922e7f8600": {
+        "id": "31f49045-5adf-4f11-8cd3-46922e7f8600",
+        "parent": null,
+        "name": "gggginduu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "gggginduu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 13
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "gggginduu"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "31f49045-5adf-4f11-8cd3-46922e7f8600"
+    ],
+    "currentFileId": "31f49045-5adf-4f11-8cd3-46922e7f8600",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.4.1.6",
+    "projectName": "gggginduu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1601988106874
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "gggginduu",
+      "url": "https://github.com/Indunil1992/gggginduu"
+    }
+  }
+}
